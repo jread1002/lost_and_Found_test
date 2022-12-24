@@ -1,8 +1,12 @@
 body{
-	background:rgb(184, 181, 181) ;
+	background:rgb(145, 145, 145) ;
 	font-family: arial;
 	font-size: 20px;
 }
 ul , p{
 	font-size: 15px;
+}
+.head{
+	text-decoration: none;	
+	color: black;
 }

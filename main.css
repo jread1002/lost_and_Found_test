@@ -1,8 +1,24 @@
 body{
-	background:rgb(184, 181, 181) ;
+	background:rgb(145, 145, 145) ;
 	font-family: arial;
 	font-size: 20px;
 }
 ul , p{
 	font-size: 15px;
+}
+button{
+	background-color: rgb(0, 0, 0);
+	color: rgb(240, 255, 255);
+	border-radius: 4px;
+}
+
+a{
+	color: blue;
+	padding: 4px;
+	margin: ;
+}
+
+ul{
+	background-color: whitesmoke;
+	width: 100px;
 }
